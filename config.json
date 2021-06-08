@@ -1,0 +1,14 @@
+{
+  "f13": "Das Programm f\u00fchrt die Befehle in den Zeilen aus.\nAuch wen dieses Fenster geschlossen wird, werden die Befehle weiter ausgef\u00fchrt. Alle Tastenanschl\u00e4ge werden aufgenommen.\n\nF\u00fcr die Befehle stehen json, os, pyautogui, webbrowser, pynput.keyboard als Packete zu Verf\u00fchgung. Es sind bis jetzt nur ein Zeilige Befehle m\u00f6glich.\n\n\n\n\n\n",
+  "f14": "pyautogui.write(['left', 'left', 'left', 'left', 'left', 'left'])\n\n\n\n\n\n\n\n",
+  "f15": "webbrowser.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')\n\n\n\n\n\n\n\n\n\n\n",
+  "f16": "os.system('C:/Program_Files/obs-studio/bin/64bit/obs64.exe')\n\n\n\n\n\n\n\n\n",
+  "f17": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f18": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f19": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f20": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f21": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f22": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f23": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n",
+  "f24": "os.system('C:/Users/Noahs/AppData/Roaming/Spotify/Spotify.exe')\n\n\n\n\n\n\n\n"
+}
